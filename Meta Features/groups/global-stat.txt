@@ -1,0 +1,1 @@
+corr_dim,dfa,exp_hurst,exp_max_lyap,ioe_tdelta_mean.mean,ioe_tdelta_mean.sd,kurtosis_diff,kurtosis_residuals,kurtosis_sdiff,opt_boxcox_coef,sd_diff,sd_residuals,sd_sdiff,season_strenght,skewness_diff,skewness_residuals,skewness_sdiff,spikiness.mean,spikiness.sd,t_mean,trend_strenght

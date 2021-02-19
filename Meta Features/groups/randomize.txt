@@ -1,0 +1,1 @@
+itrand_acf.mean,itrand_acf.sd,itrand_mean.mean,itrand_mean.sd,itrand_sd.mean,itrand_sd.sd,resample_first_acf_locmin.mean,resample_first_acf_locmin.sd,resample_first_acf_nonpos.mean,resample_first_acf_nonpos.sd,resample_std.mean,resample_std.sd,surr_tc3.mean,surr_tc3.sd,surr_trev.mean,surr_trev.sd

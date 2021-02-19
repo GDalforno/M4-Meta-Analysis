@@ -1,0 +1,1 @@
+avg_cycle_period,curvature,des_level,des_slope,ets_level,ets_season,ets_slope,gaussian_r_sqr,ioe_std_adj_r_sqr,ioe_std_slope,linearity
